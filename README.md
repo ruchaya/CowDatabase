@@ -1,5 +1,7 @@
 # CowDatabase
 
+Alexey Ruchay, Vitaly Kober, Konstantin Dorofeev, Vladimir Kolpakov, Sergei Miroshnikov. Accurate body measurement of live cattle using three depth cameras and non-rigid 3-D shape recovery // Computers and Electronics in Agriculture, Volume 179, 2020, 105821.
+
 https://www.sciencedirect.com/science/article/abs/pii/S0168169920321256
 
 https://doi.org/10.1016/j.compag.2020.105821
