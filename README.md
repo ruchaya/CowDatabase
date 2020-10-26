@@ -1,4 +1,21 @@
 # CowDatabase
+
+https://www.sciencedirect.com/science/article/abs/pii/S0168169920321256
+
+https://doi.org/10.1016/j.compag.2020.105821
+
+@article{RUCHAY2020105821,
+title = "Accurate body measurement of live cattle using three depth cameras and non-rigid 3-D shape recovery",
+journal = "Computers and Electronics in Agriculture",
+volume = "179",
+pages = "105821",
+year = "2020",
+issn = "0168-1699",
+doi = "https://doi.org/10.1016/j.compag.2020.105821",
+url = "http://www.sciencedirect.com/science/article/pii/S0168169920321256",
+author = "Alexey Ruchay and Vitaly Kober and Konstantin Dorofeev and Vladimir Kolpakov and Sergei Miroshnikov"
+}
+
 The created database contains RGB-D data and manual measurements for 103 Hereford cattle, and is open and accessible to the research community.
 
 Data from 103 cattle were collected on August 15th, 2019. Hereford cattle belonged to a private farm in the Nizhny Novgorod region, Russia. The remarkable characteristics of the breed are uniformity of color, early maturity and ability to thrive under adverse conditions. On the day of data collection, all selected cows were gathered at the feed fences in a separate area for manual body measurements and image recording. Nine body measurements were manually taken by an expert using ordinary measuring either tape or stick and recorded in centimeters.
